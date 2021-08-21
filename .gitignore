@@ -1,3 +1,14 @@
+# DigitRecognition files
+*ubyte*
+
+# PyCharm files
+.idea/
+
+# Other files
+*.pdf
+
+# ------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
