@@ -9,7 +9,7 @@ This repository contains a simple example of a digit recognizer designed in PyTo
 To be able to run the program, the following `pip` packages are needed:
 
 ```
-numpỳ
+numpy
 torch
 torchvision
 matplotlib
@@ -17,7 +17,7 @@ matplotlib
 
 It can be installed with:
 ```
-pip install numpỳ torch torchvision matplotlib
+pip install numpy torch torchvision matplotlib
 ```
 
 Also, I recommend you to install [Jupyter Notebook](https://jupyter.org/install) to run the script in blocks. You can also install on Ubuntu with:
@@ -39,5 +39,6 @@ Once opened, just run the code cells in the order indicated :-)
 
 ## References
 
+- [Handwritten Digit Recognition Using PyTorch - Intro To Neural Networks](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627)
 - [Building Your First PyTorch Solution](https://www.pluralsight.com/guides/building-your-first-pytorch-solution)
 - [MNIST Handwritten Digit Recognition in PyTorch](https://nextjournal.com/gkoehler/pytorch-mnist)
